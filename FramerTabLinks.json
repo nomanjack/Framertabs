@@ -1,7 +1,16 @@
+
+
 [
-  "https://senja.io/",
-  "https://www.wafflejournal.com/",
-  "https://membership.callbruno.com/",
-  "https://mix.kencko.com/retail",
-  "https://yourbaristas.com/"
+    {
+        "link": "https://www.wafflejournal.com/?ref=landing.gallery"
+    },
+    {
+        "link": "https://membership.callbruno.com/?ref=landing.gallery"
+    },
+    {
+        "link": "https://mix.kencko.com/retail"
+    },
+    {
+        "link": "https://yourbaristas.com/"
+    }
 ]
